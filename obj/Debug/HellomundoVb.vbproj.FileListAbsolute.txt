@@ -1,0 +1,11 @@
+C:\Users\alfre\OneDrive\Documentos\2do año facu\practicaC#\Hellomundo\HellomundoVb\bin\Debug\HellomundoVb.exe.config
+C:\Users\alfre\OneDrive\Documentos\2do año facu\practicaC#\Hellomundo\HellomundoVb\bin\Debug\HellomundoVb.exe
+C:\Users\alfre\OneDrive\Documentos\2do año facu\practicaC#\Hellomundo\HellomundoVb\bin\Debug\HellomundoVb.pdb
+C:\Users\alfre\OneDrive\Documentos\2do año facu\practicaC#\Hellomundo\HellomundoVb\bin\Debug\HellomundoVb.xml
+C:\Users\alfre\OneDrive\Documentos\2do año facu\practicaC#\Hellomundo\HellomundoVb\obj\Debug\HellomundoVb.vbproj.AssemblyReference.cache
+C:\Users\alfre\OneDrive\Documentos\2do año facu\practicaC#\Hellomundo\HellomundoVb\obj\Debug\HellomundoVb.Resources.resources
+C:\Users\alfre\OneDrive\Documentos\2do año facu\practicaC#\Hellomundo\HellomundoVb\obj\Debug\HellomundoVb.vbproj.GenerateResource.cache
+C:\Users\alfre\OneDrive\Documentos\2do año facu\practicaC#\Hellomundo\HellomundoVb\obj\Debug\HellomundoVb.vbproj.CoreCompileInputs.cache
+C:\Users\alfre\OneDrive\Documentos\2do año facu\practicaC#\Hellomundo\HellomundoVb\obj\Debug\HellomundoVb.exe
+C:\Users\alfre\OneDrive\Documentos\2do año facu\practicaC#\Hellomundo\HellomundoVb\obj\Debug\HellomundoVb.xml
+C:\Users\alfre\OneDrive\Documentos\2do año facu\practicaC#\Hellomundo\HellomundoVb\obj\Debug\HellomundoVb.pdb
